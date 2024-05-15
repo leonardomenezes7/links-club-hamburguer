@@ -13,4 +13,4 @@ The 'Clube do Hambúrguer Links' project is a link page developed by my company 
 - HTML
 - JavaScript
 
-## Developed by Leonardo Menezes
+### Developed by Leonardo Menezes
