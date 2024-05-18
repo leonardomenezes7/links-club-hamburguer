@@ -36,7 +36,7 @@ export function Home() {
           </a>
 
           <a 
-            href="https://drive.google.com/file/d/1fuypaohYITGLabV9kNrCJW1xc9KhUi99/view?usp=drivesdk"
+            href="https://www.ifood.com.br/delivery/cuiaba-mt/clube-do-hamburguer-santa-cruz/96404ac5-f3fa-4450-b8fc-9650a81bf0cb"
             target="blank"
           >
             <SiIfood />
